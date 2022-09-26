@@ -1,7 +1,5 @@
 '''
 Rand Hasan
-Period 11- HCP
-Assignment: Snake Game
 Description: This program runs the game of snake in which the user moves a snake around the board.
 '''
 
