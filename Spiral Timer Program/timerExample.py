@@ -1,7 +1,6 @@
 '''
 Rand Hasan
-HCP
-Assignment: Timer Example with Rotation
+Timer Example with Rotation
 Description:Program to rotate a spiral while counting down from 10
 '''
 
