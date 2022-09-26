@@ -1,7 +1,5 @@
 '''
-
 Dictionaries practice
-HCP
 Demonstration of various dictionary functions
 '''
 
