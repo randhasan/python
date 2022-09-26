@@ -1,6 +1,5 @@
 '''
 Rand Hasan
-Period 11 HCP 12/12/2018
 Assignment: Etch-a-Sketch
 This program displays a functioning Etch-a-Sketch
 '''
