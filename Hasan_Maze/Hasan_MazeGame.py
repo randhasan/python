@@ -1,7 +1,5 @@
 '''
 Rand Hasan
-Period 11 HCP 10/5/2018
-Assignment: Unit 3 Program 5 - Maze
 This program displays a unique maze with rectangles
 '''
 import pygame, random
