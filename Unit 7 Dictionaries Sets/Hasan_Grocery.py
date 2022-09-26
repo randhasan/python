@@ -1,7 +1,6 @@
 '''
 Rand Hasan
-HCP 11
-Unit 7: Grocery Application
+Grocery Application
 This program is used to simulate check out at a grocery store.
 '''
 
