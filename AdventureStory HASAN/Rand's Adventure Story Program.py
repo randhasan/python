@@ -1,9 +1,7 @@
 '''
 Rand Hasan
-HCP 11
 Pygame Emoji Adventure Story Program
 In this program, the user will go through an interactive adventure story and travel a path to get to their Grandma's house.
-Credits: Luke Szfranski, Mrs. Klosky for starter template code.
 Note: all images must be saved to same directory as this python file.
 '''
 
