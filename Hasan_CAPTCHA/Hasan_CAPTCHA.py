@@ -1,6 +1,5 @@
 '''
 Rand Hasan
-HCP 11
 CAPTCHA Test
 '''
 
